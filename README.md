@@ -21,13 +21,13 @@ It is designed to showcase \*\*practical SQL knowledge\*\* suitable for \*\*Data
 
 
 
-\* \*\*Database:\*\* MySQL 8.0
+Database: MySQL 8.0
 
-\* \*\*Language:\*\* SQL
+Language: SQL
 
-\* \*\*Tool:\*\* MySQL Workbench
+Tool: MySQL Workbench
 
-\* \*\*Data Source:\*\* CSV files
+Data Source: CSV files
 
 
 
@@ -137,7 +137,7 @@ Stores order transactions.
 
 
 
-\### 🔹 Basic Queries
+🔹 Basic Queries
 
 
 
@@ -153,7 +153,7 @@ Stores order transactions.
 
 
 
-\### 🔹 Intermediate Queries
+🔹 Intermediate Queries
 
 
 
@@ -167,7 +167,7 @@ Stores order transactions.
 
 
 
-\### 🔹 Advanced Queries
+🔹 Advanced Queries
 
 
 
@@ -267,9 +267,9 @@ Stores order transactions.
 
 
 
-\*\*Amrita Singh\*\*
+AMrita SIngh
 
-Aspiring Data Analyst | SQL | Data Analytics
+Aspiring Data Analyst | SQL | Python | Power BI | Excel | Data Analytics
 
 
 
@@ -277,7 +277,8 @@ Aspiring Data Analyst | SQL | Data Analytics
 
 
 
-⭐ \*This project is created for learning, portfolio, and interview preparation purposes.\*
+⭐ This project is created for learning, portfolio, and interview preparation purposes.
+
 
 
 
