@@ -1,8 +1,8 @@
-\# 📚 Online Bookstore SQL Project
+📚 Online Bookstore SQL Project
 
 
 
-\## 📌 Project Overview
+📌 Project Overview
 
 
 
@@ -17,8 +17,7 @@ It is designed to showcase \*\*practical SQL knowledge\*\* suitable for \*\*Data
 ---
 
 
-
-\## 🛠️ Tools \& Technologies
+🛠️ Tools \& Technologies
 
 
 
@@ -36,7 +35,7 @@ It is designed to showcase \*\*practical SQL knowledge\*\* suitable for \*\*Data
 
 
 
-\## 🗂️ Database Structure
+🗂️ Database Structure
 
 
 
@@ -44,7 +43,7 @@ The database contains three main tables:
 
 
 
-\### 1️⃣ Books
+1️⃣ Books
 
 
 
@@ -68,7 +67,7 @@ Stores book-related information.
 
 
 
-\### 2️⃣ Customers
+2️⃣ Customers
 
 
 
@@ -90,7 +89,7 @@ Stores customer details.
 
 
 
-\### 3️⃣ Orders
+3️⃣ Orders
 
 
 
@@ -116,7 +115,7 @@ Stores order transactions.
 
 
 
-\## 📥 Data Import Process
+📥 Data Import Process
 
 
 
@@ -134,7 +133,7 @@ Stores order transactions.
 
 
 
-\## 🔍 SQL Queries Implemented
+🔍 SQL Queries Implemented
 
 
 
@@ -188,7 +187,7 @@ Stores order transactions.
 
 
 
-\## 📊 Key Insights
+📊 Key Insights
 
 
 
@@ -206,7 +205,7 @@ Stores order transactions.
 
 
 
-\## 🎯 Skills Demonstrated
+🎯 Skills Demonstrated
 
 
 
@@ -226,7 +225,7 @@ Stores order transactions.
 
 
 
-\## 🚀 How to Run the Project
+🚀 How to Run the Project
 
 
 
@@ -245,8 +244,7 @@ Stores order transactions.
 ---
 
 
-
-\## 📁 Project Files
+📁 Project Files
 
 
 
@@ -265,8 +263,7 @@ Stores order transactions.
 ---
 
 
-
-\## 👩‍💻 Author
+👩‍💻 Author
 
 
 
@@ -281,6 +278,7 @@ Aspiring Data Analyst | SQL | Data Analytics
 
 
 ⭐ \*This project is created for learning, portfolio, and interview preparation purposes.\*
+
 
 
 
